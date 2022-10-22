@@ -113,7 +113,7 @@ header nav{
     justify-content: flex-end;
 } 
 header nav .logomenu{
-    color:var();
+    color:var(--third-color);
     font-size: 22px;
 }
 @media (min-width:768px){
